@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander
-- 👀 I’m interested in web-development, data analysing
+- 👀 I’m interested in web-development
 - 🌱 I’m currently learning vue.js, python
 - 📫 How to reach me vonreifschneider@gmail.com
 
