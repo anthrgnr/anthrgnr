@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexander
 - 👀 I’m interested in web-development
-- 🌱 I’m currently learning vue.js, python
+- 🌱 I’m currently learning vue.js, python, react-native
 - 📫 How to reach me vonreifschneider@gmail.com
 
 <!---
